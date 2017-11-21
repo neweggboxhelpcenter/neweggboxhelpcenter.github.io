@@ -15180,29 +15180,17 @@ body {
   font-style: italic;
   letter-spacing: 1rem;
 }
-.cid-qycORloIvy {
-  padding-top: 120px;
-  padding-bottom: 120px;
+.cid-qBzryzTVVQ {
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
-.cid-qycORloIvy .line {
-  background-color: #f98c00;
-  color: #f98c00;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
+.cid-qBzryzTVVQ .mbr-text,
+.cid-qBzryzTVVQ blockquote {
+  color: #767676;
 }
-.cid-qycORloIvy .section-text {
-  padding: 2rem 0;
-  text-align: center;
-}
-.cid-qycORloIvy .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-qycORloIvy .inner-container {
-    width: 100% !important;
-  }
+.cid-qBzryzTVVQ .mbr-text {
+  color: #232323;
 }
 .cid-qyofDVQB4w {
   padding-top: 60px;
