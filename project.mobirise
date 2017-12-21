@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NeweggBox Help Center",
-    "currentPage": "page6.html",
+    "currentPage": "page46.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -31207,7 +31207,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article>雲端空間可以解決本機裝置不足的問題，但多數仍必須於本機處理完後才上傳至雲端，如此一來本機裝置仍需要有一足夠的緩衝空間，什麼樣的檔案最佔用空間呢？最頻繁使用的就是影音檔，尤其是行動工作者，可能常需要到處開會或是辦活動時需要錄製影片...等等，如果錄製到一半裝置空間不足呢？該怎麼辦才好？\n<div>\n</div><div>NeweggBox以使用者為中心做設計，結合了影音錄製的功能，現在您只要於NeweggBox中使用「新增錄音檔／新增影片」功能，立即替您執行錄製功能，並直接儲存於NeweggBox\n<span style=\"font-size: 1.5rem;\">提供您的雲端儲存空間，完全不佔用您裝置的空間，也直接幫您解決了工作與私人的空間運用，並且直接於NeweggBox中就可立即播放，所有的工作都可於NeweggBox上一起解決，如此方便貼心的好工具，趕快來體驗「原來完成一件事情那麼的簡單！」&nbsp;</span></div><div><br></div></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>雲端空間可以解決本機裝置不足的問題，但多數仍必須於本機處理完後才上傳至雲端，如此一來本機裝置仍需要有一足夠的緩衝空間，什麼樣的檔案最佔用空間呢？最頻繁使用的就是影音檔，尤其是行動工作者，可能常需要到處開會或是辦活動時需要錄製影片...等等，如果錄製到一半裝置空間不足呢？該怎麼辦才好？</p><p>\n</p><div>\n</div><div>NeweggBox以使用者為中心做設計，結合了影音錄製的功能，現在您只要於NeweggBox中使用「新增錄音檔／新增影片」功能，立即替您執行錄製功能，並直接儲存於NeweggBox\n<span style=\"font-size: 1.5rem;\">提供您的雲端儲存空間，完全不佔用您裝置的空間，也直接幫您解決了工作與私人的空間運用，並且直接於NeweggBox中就可立即播放，所有的工作都可於NeweggBox上一起解決，如此方便貼心的好工具，趕快來體驗「原來完成一件事情那麼的簡單！」&nbsp;</span></div><div><br></div><p></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qEpnoSimNC",
           "_anchor": "content1-j8",
           "_protectedParams": [],
